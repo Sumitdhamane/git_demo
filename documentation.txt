@@ -1,1 +1,4 @@
 The Volunteer and Temporary Staff Allocation System is a web-based application designed to streamline the management of short-term workforce requirements for events, examinations, and similar activities. The system allows organizations to post staff requirements, enables volunteers to apply for available shifts, and supports admin-led verification, shift assignment, attendance tracking, and payment processing. By automating these processes, the platform reduces manual effort, improves coordination, and ensures transparent and efficient staff allocation.
+
+
+project by Sumit dhamane
